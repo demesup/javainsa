@@ -1,7 +1,7 @@
 # Java Platformer Game
 
 ## Introduction
-This is a platformer game written in Java by **Sofiia HUZHAN** and **Yelyzaveta BASIUK**. It’s our project, and we really enjoyed creating and refining this game. We hope you have as much fun playing it as we had making it!
+This is a platformer game written in Java. It’s our project, and we really enjoyed creating and refining this game. We hope you have as much fun playing it as we had making it!
 
 ---
 
@@ -132,11 +132,5 @@ chmod +x run.sh
 - Refactor remaining hard-coded values into enums or constants.
 - Address the command-line audio loading issue.
 - Implement additional gameplay features for enhanced user engagement.
-
----
-
-## Authors
-- **Sofiia HUZHAN**
-- **Yelyzaveta BASIUK**
 
 ---
